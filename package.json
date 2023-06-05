@@ -1,7 +1,7 @@
 {
   "name": "@teamcodafication/australia-address-parser",
-  "version": "1.0.1-codafication.0",
-  "description": "Australia Street Address Parser",
+  "version": "1.0.1-codafication.1",
+  "description": "Australia Street Address Parser (forked from https://www.npmjs.com/package/parse-address-australia)",
   "main": "parser.js",
   "scripts": {
     "test": "node test",
@@ -10,7 +10,7 @@
   "author": "Gordon Lam (https://github.com/gordonlkc)",
   "license": "ISC",
   "dependencies": {
-    "xregexp": "^3.1.1"
+    "xregexp": "^4.3.0"
   },
   "devDependencies": {
     "browserify": "^17.0.0",
